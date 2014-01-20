@@ -1,4 +1,4 @@
-reference
+Reference Data
 =========
 
-Contains reference data useful for data aggregation with data from across repositories.
+Repository contains reference data useful for data aggregation with data from across repositories and orientation purposes.
