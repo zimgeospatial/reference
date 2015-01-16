@@ -1,0 +1,18 @@
+REPOSITORY,FILENAME,DESCRIPTION,LINK,TAG
+admin_boundaries,admin_level0_country,National country boundary,,
+admin_boundaries,admin_level1_provinces,Provincial boundary. Also called level 1 administrative boundary.,,
+admin_boundaries,admin_level2_districts,District boundary. Also called level 2 administrative boundary.,,
+admin_boundaries,admin_level3_wards,Ward boundary. Also called level 3 administrative boundary.,,
+census,ward_population,Population data per ward. Has 2012 census and also households per ward.,,
+census,province_population,"Population data per province. Contains 1982, 1992, 2002 and 2012 census values.",,
+reference,province_p_codes,Place Codes for provinces.,,
+reference,district_p_codes,Place Codes for districts.,,
+reference,ward_p_codes,Place Codes for wards.,,
+reference,srtm_v3_43875,Tile Index for SRTM 1 Arc-Second Global (30 meters) - Shuttle Radar Topography Mission DEM data.,,Elevation; DEM
+misc_boundaries,agro_ecological_regions,,,
+reference,aster_gdem_v2,"Tile Index for ASTER GDEM Version 2. Advanced Spaceborne Thermal Emission and Reflection Radiometer, Global Digidat Elevation Model.",,Elevation; DEM
+reference,one_in_50000_topographic_maps_index,Index map for the 1 in 50 000 Topographic Map Sheets covering the country.,,Topography; Map Sheet
+reference,one_degree_of_latitude_and_longitude_tiles,One degree of latitude and longitude tiles covering the country.,,Latitude; Longitude; Tile
+historic,historic_land_classes,Pre-Independed Zimbabwe land classes/ divisions ,,land use; communal area; farms
+historic,tribal_groups,Shows the distribution of the major tribal groups of Zimbabwe (the then Rhodesia),,tribe; language
+hydrology,catchment_areas,Shows the river catchment boundaries,,hydrology; drainage; water
