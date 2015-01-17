@@ -5,9 +5,9 @@ admin_boundaries,admin_level2_districts,District boundary. Also called level 2 a
 admin_boundaries,admin_level3_wards,Ward boundary. Also called level 3 administrative boundary.,,
 census,ward_population,Population data per ward. Has 2012 census and also households per ward.,,
 census,province_population,"Population data per province. Contains 1982, 1992, 2002 and 2012 census values.",,
-reference,province_p_codes,Place Codes for provinces.,https://github.com/zimgeospatial/reference/blob/master/p_codes_province.csv,
-reference,district_p_codes,Place Codes for districts.,https://github.com/zimgeospatial/reference/blob/master/p_codes_district.csv,
-reference,ward_p_codes,Place Codes for wards.,https://github.com/zimgeospatial/reference/blob/master/p_codes_wards.csv,
+reference,province_p_codes,Place Codes for provinces.,,
+reference,district_p_codes,Place Codes for districts.,,
+reference,ward_p_codes,Place Codes for wards.,,
 reference,srtm_v3_43875,Tile Index for SRTM 1 Arc-Second Global (30 meters) - Shuttle Radar Topography Mission DEM data.,,Elevation; DEM
 misc_boundaries,agro_ecological_regions,,,
 reference,aster_gdem_v2,"Tile Index for ASTER GDEM Version 2. Advanced Spaceborne Thermal Emission and Reflection Radiometer, Global Digidat Elevation Model.",,Elevation; DEM

@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": "town-hall",
+        "Comment": "Capital City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.04461669921875,
+          -17.82060812110439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color":"#FFA500",
+        "marker-symbol": "town-hall",
+        "Hint": "Second Capital "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.58230590820312,
+          -20.15007387423521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000A0",
+        "marker-symbol": "star",
+        "Hint": "Tourist attraction. Waterfalls."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.83160400390625,
+          -17.928435899623146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color":"#FFA500",
+        "marker-symbol": "town-hall",
+        "Hint": "Important City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.83227157592773,
+          -20.072861763261013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-symbol": "zoo",
+        "Placename": "Gonarezhou National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.75872802734375,
+          -21.810508315752152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000A0",
+        "marker-symbol": "star",
+        "Hint": "Border Post to South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.986839294433597,
+          -22.221416273101298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000A0",
+        "marker-symbol": "star",
+        "Hint": "Tourist attraction. Lake Kariba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.775768280029297,
+          -16.526413948106637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color":"#FFA500",
+        "marker-symbol": "town-hall",
+        "Hint": "Important Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.81826782226562,
+          -19.450406572394694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color":"#FFA500",
+        "marker-symbol": "town-hall",
+        "Hint": "Important Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.66836166381836,
+          -18.97285731927226
+        ]
+      }
+    }
+  ]
+}

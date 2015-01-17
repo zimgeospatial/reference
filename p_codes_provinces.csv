@@ -1,0 +1,11 @@
+ProvincePCode,ProvinceName,NoOfUrbanDistricts,NoOfRuralDistricts,TotalDistricts,NoOfWardsInUrbanDistricts,NoOfWardsInRuralDistricts,TotalWards
+10,Bulawayo,1,0,1,29,0,29
+11,Manicaland,3,7,10,37,223,260
+12,Mashonaland Central,1,8,9,12,220,232
+13,Mashonaland East,2,9,11,21,208,229
+14,Mashonaland West,6,7,13,76,155,231
+15,Matabeleland North,2,7,9,26,167,193
+16,Matabeleland South,3,7,10,22,146,168
+17,Midlands,6,8,14,70,226,296
+18,Masvingo,2,7,9,18,224,242
+19,Harare,3,0,3,78,0,78
